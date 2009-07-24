@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<page title="Development">
+  <section title="Milestone 2 - Chaos rules">
+    <subsection title="What its about?">
+      <p>
+        Milestone 2 of Feuerkraft should present a fully playable
+        game, it might be short and the missions might be simple, but
+        beside that it should be fully playable and provide a
+        challange for the player. Milestone 2 should also give an
+        introduction to the overall story that will be part of
+        Feuerkraft. The characters that one will meet in M2 might or
+        might not be the same as in M3, this has not yet been decided.
+      </p>
+    </subsection>
+
+    <subsection title="Planed Features">
+      <ul>
+        <li>defining of new vehicle/building types/parameters via
+        scripts</li>      
+        <li>communication/command with/over other troops</li>
+        <li>mission recording and replay</li>
+        <li>savegame support in the mission (might be limited)</li>
+        <li>many different kinds of vehicles with different abilities</li>
+        <li>an interesting storyline (well... and maybe not, I am not a writer, but I'll try my best)</li>
+        <li>joystick and gamepad support (currently in bad shape)</li>
+      </ul>
+    </subsection>
+
+    <subsection title="Finished Features">
+      <ul>
+        <li>level file format is mostly done, serialisation is still
+        and issue</li>
+        <li>scripting support via Guile with help of Swig is working
+          and so far easily extensible if needed</li>
+        <li>you can walk around without a vehicle and change the
+          vehicle if you like</li>
+        <li>OpenGL support is working (via ClanLib0.7)</li>
+        <li>map engine is basically working</li>
+        <li>some more vehicle types needs to be added</li>
+        <li>some kind of ai, pathfind, etc. for computer controlled vehicle is missing</li>
+      </ul>
+    </subsection>
+  </section>
+
+  <section title="Milestone 1 - Drive Demo">
+    <p>
+      Milestone 1, also known as Drive Demo provides a simple drive
+      around on the map, no missions or anything, just simple driving.
+      It provides an intro the the lock and feel of Feuerkraft and
+      presents a few special effects. It isn't meant as a game, but
+      simply as a techdemo. No scripting support is available and no
+      multiplayer.
+    </p>
+  </section>
+
+</page>

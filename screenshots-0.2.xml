@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<page title="Screenshots of Version 0.2">
+  <screenshot-menu/>
+  
+  <screenshots>
+    <item file="screenshot-13" />
+    <item file="screenshot-12" />
+  </screenshots>
+</page>

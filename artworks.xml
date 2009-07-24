@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page title="Artwork">
+  <p style="text-align: center;">
+    [
+    <a href="#Vehicles">Vehicles</a>
+    | <a href="#Buildings">Buildings</a>
+    | <a href="#Concept Art">Concept Art</a>
+    ]
+  </p>
+  <section title="Vehicles">
+    <p>
+      <table bgcolor="lightgrey" border="1"  width="100%" style="border-style: solid;">
+        <tr>
+          <td  align="center">
+            <img src="images/tank.png" alt="" />
+          </td>
+          <td><h3>Tank Nr.1</h3> 
+
+            A slow tank, with a low fire frequency, but with an
+            extremely strong gun, can drop mines.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">		
+            <img src="images/tank2.png" alt="" />
+          </td>
+          <td>
+            <h3>Tank Nr.2</h3>
+            
+            This tank is faster than Nr.1, has weaker gun, but
+            a faster fire frequency. As Nr.1 it can drop
+            mine.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/helicopter.png" alt="" />
+          </td>
+          <td>
+            <h3>Helicopter</h3>
+
+            The helicopter is faster than all ground vehicles,
+            but it lacks a strong plating, so it can be easily
+            shoot down. Weapons are a minigun and rockets.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/jeep.png" alt="" />
+          </td>
+          <td>
+            <h3>Jeep</h3>
+            
+            The jeep as basically no plating and only a week
+            machine gun, but it is fast and the only vehicle
+            that can capture the flag.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/hovercraft.png" alt="" />
+          </td>
+          <td>
+            <h3>Hovercraft</h3>
+            
+            Can travel over water and land. Weak gun, strong
+            plating. Can't be destroyed by mines.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/trooper.png" alt="" />
+          </td>
+          <td>
+            <h3>Trooper</h3>
+
+            Can transport a number of soldiers and release them.
+            Weapons are two maschine guns + the weapons which the
+            soldiers carry.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/artillery1.png" alt="" />
+          </td>
+          <td>
+            <h3>Artillery 1</h3>
+            <p>Long Range Weapon Vehicle, can shoot gradates over a long distance.
+            </p>
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/flak.png" alt="" />
+          </td>
+          <td>
+            <h3>Flak/MG</h3>
+
+            <p>Extreme high fire frequenze, usefull against soldiers, planes and helicopters</p>
+
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/artillery2.png" alt="" />
+          </td>
+          <td>
+            <h3>Artillery 2</h3>
+
+            <p>Same as Artillery 1, but shoots rockets. Longer Range and more powerfull.</p>
+
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/bomber.jpg" alt="" />
+          </td>
+          <td>
+            <h3>Bomber</h3>
+
+            Might not be controllable directly by the player.  Can
+            only be destroyed by ground-to-air missles. Weapons:
+            Lots of bombs, be used to destroy a basis.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/huey.jpg" alt="" />
+          </td>
+          <td>
+            <h3>UH-1 Huey</h3>
+
+            Rescue helicopter, might be able to capture the
+            flag. Weapon is a maschine gun.
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/ambulance.png" alt="" />
+          </td>
+          <td>
+            <h3>Ambulance</h3>
+
+            Rescue vehicle, can collect wounded soldiers
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+            <img src="images/soldier.png" alt="" />
+          </td>
+          <td>
+            <h3>Soldier</h3>
+
+            There should be different kinds of soldiers, nothing
+            specific at the moment. Soldiers should be controllable
+            by the computer.
+          </td>
+        </tr>
+
+      </table>
+    </p>
+  </section>
+  
+  <section title="Buildings">
+    <p>
+      <table bgcolor="lightgrey" border="1" width="100%">
+        <tr>
+          <td  align="center">
+            <img src="images/buildings/armoredgenerator.png" alt="" />
+          </td>
+          <td><h3>Armored Generator</h3> 
+          </td>
+        </tr>
+
+        <tr>
+          <td  align="center">
+            <img src="images/buildings/generator.png" alt="" />
+          </td>
+          <td><h3>Generator</h3> 
+          </td>
+        </tr>
+
+        <tr>
+          <td  align="center">
+            <img src="images/buildings/garage.png" alt="" />
+          </td>
+          <td><h3>Garage</h3> 
+          </td>
+        </tr>
+      </table>
+    </p>
+  </section>
+
+  <section title="Concept Art">
+    <thumbnail-link href="images/conceptart1.jpg" />
+    <thumbnail-link href="images/conceptart2.jpg" />
+    <thumbnail-link href="images/sketch.jpg" />
+  </section>
+</page>

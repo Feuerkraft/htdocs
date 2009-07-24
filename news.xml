@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<page title="News">
+  <news>
+    <item date="02. Dec 2003">
+      Feuerkraft repository has moved from CVS to <a
+      href="http://subversion.tigris.org/">Subversion</a>,
+      there have also been two new helicopters included in Feuerkraft
+      CVS and a new release will follow in the next weeks.
+    </item>
+
+    <item date="15. Jun 2003">
+      Another little webpage update, added development section,
+      scripting in Feuerkraft is mostly working.
+    </item>
+
+    <item date="19. Apr 2003">
+      Recreated the Webpage and build a new static binary for GNU/Linux (i386).
+    </item>
+
+    <item date="19. Apr. 2003">
+      rebuild of the static 0.1.0 binary is available
+    </item>
+
+    <item date="23. Sept. 2002">
+      Just a little lifesign, even so currently not much happen on the
+      code base, I am still working on this one and trying out ideas,
+      so this project is not dead. You can find a little nice concept
+      art here
+    </item>
+
+    <item date="01. Apr. 2002">
+      Added binary for win32, special thanks to Kenneth Gangstoe for the Win32 port
+    </item>
+
+    <item date="30. Mar 2002">
+      Added source tarball for feuerkraft-0.1.0
+    </item>
+
+    <item date="29. Mar 2002">
+      Released binary for version 0.1.0
+    </item>
+
+    <item date="2. Mar 2002">
+      Added some hand-written plans and gamedesign ideas to the todo section
+    </item>
+
+    <item date="21. Jan 2002">
+      Added ToDo
+    </item>
+
+    <item date="16. Nov 2001">
+      Website redesign
+    </item>
+
+    <item date="9.May 2001">
+      a new release
+    </item>
+
+    <item date="6.May 2001">
+      added a yet another new screenshot, refuelling and reloading of ammo are working now
+    </item>
+
+    <item date="4.May 2001">
+      added a new screenshot
+    </item>
+
+    <item date="17.Feb 2001">
+      CVS access is available, added a new screenshot
+    </item>
+
+  </news>
+</page>

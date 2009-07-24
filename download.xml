@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<page title="Download">
+  <section title="Static Binaries">
+    <subsection title="GNU/Linux (i386)">
+
+    <ul>
+      <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.1.0-3-binary-linux-i386.tar.bz2" /> [2.6MB] Sat Apr 19 16:25:45 2003</li>
+      <!-- <li><dlink href="http://savannah.nongnu.org/download/feuerkraftfeuerkraft-0.1.0-binary-i386.tar.gz" /> [2.6MB] Fri Mar 29 14:09:42 2002</li> -->
+</ul>
+</subsection>
+
+    <subsection title="Windows">
+<ul>
+      <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.1.0-binary-win32.zip" /> [2.3MB] Mon Apr  1 00:37:15 2002</li>
+    </ul>
+</subsection>
+<hr />
+
+    <section title="Source Tarballs">
+      <p>Requires <a href="http://www.clanlib.org">ClanLib 0.6.x</a>,
+        <a
+        href="http://dark.x.dtu.dk/~sphair/SphriteLib/">SphriteLib</a>,
+        <a href="http://www.gnu.org/software/guile/">Guile</a> and
+        OpenGL.</p>
+      <ul>
+        <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.1.0.tar.gz" /> [2.7MB] Sat Mar 30 13:42:14 2002</li>
+        <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.0.3.tar.gz" /> [780kb] Wed May  9 20:33:27 2001</li>
+        <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.0.2.tar.gz" /> [688kb]</li>
+        <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/firepower-0.0.1.tar.gz" /> [452kb]</li>
+        <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/firepower-0.0.0.tar.gz" /> [188kb]</li>
+      </ul>
+    </section>
+<hr />
+
+    <section title="Source for images and other data">
+      <p>
+        The source for the images, which means the layered
+        <tt>.xcf</tt> files, are not provided in the tarball above,
+        since they are quite large and not needed to compile the
+        game from source. They are also not part of the Subversion source
+        tree. The <tt>.xcf</tt> files should be mostly interesting
+        for artist which want to modify some of the in game gfx. You
+        can find the .xcf files at:
+      </p>
+
+      <ul>
+        <li><dlink-full href="http://savannah.nongnu.org/download/feuerkraft/contrib/" /></li>
+      </ul>
+
+    </section>
+<hr />
+<section title="Subversion">
+<pre>svn co svn://clanlib.org/Games/Feuerkraft/trunk/</pre>
+</section>
+
+    
+  </section>
+</page>

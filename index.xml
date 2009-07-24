@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+  <head>
+    <title>Feuerkraft - Chaos Rules... [Release 0.1.0 out now!]</title>
+    <link rel="stylesheet" type="text/css" href="default.css" />
+    <link rel="icon" href="images/favicon.png" type="image/png" />
+    <style type="text/css">
+      .div { display: table-cell; vertical-align: middle; }
+      .body { position: fixed; top: 0; left: 0; right: 0; bottom: 0; display: table; height: 100%; margin: 0 auto; }
+    </style>
+  </head>
+
+  <body text="text" bgcolor="#707f9b">
+    <div class="body">
+      <div class="div">
+        <a href="welcome.html"><img style="border-style: none" src="images/logo_large_0.1.0.jpg"
+            alt="Feuerkraft - Chaos Rules..."/></a>
+        <h1 style="text-align: center;">Release 0.1.0 is out now (again)!</h1>           
+      </div>
+    </div>
+  </body>
+</html>

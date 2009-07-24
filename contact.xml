@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<page title="Contact">
+  <section title="Mailing Lists">
+
+    <dl>
+      <dt>
+        <a HREF="http://mail.nongnu.org/mailman/listinfo/feuerkraft-devel">feuerkraft-devel</a>
+        <i>Feuerkraft Developers List</i></dt>
+
+      <dd>To see the collection of prior posting to the list, visit
+        the <a HREF="http://mail.nongnu.org/archive/html/feuerkraft-devel">feuerkraft-devel archives</a>.<br />
+        
+        To post a message to all the list members,
+        send email to <a href="mailto:feuerkraft-devel@nongnu.org">feuerkraft-devel@nongnu.org</a><br />
+        
+        (Un)Subscribe by following instructions on the <a
+          HREF="http://mail.nongnu.org/mailman/listinfo/feuerkraft-devel">list
+          information page</a>.<br /><br />
+      </dd>
+
+
+      <dt>
+        <a HREF="http://mail.nongnu.org/mailman/listinfo/feuerkraft-cvs">feuerkraft-cvs</a>
+        <i>Feuerkraft CVS Commit List</i></dt>
+
+      <dd>To see the collection of prior posting to the list, visit
+        the <a HREF="http://mail.nongnu.org/archive/html/feuerkraft-cvs">feuerkraft-cvs archives</a>.<br />
+        
+        To post a message to all the list members,
+        send email to <a href="mailto:feuerkraft-cvs@nongnu.org">feuerkraft-cvs@nongnu.org</a><br />
+        
+        (Un)Subscribe by following instructions on the <a
+          HREF="http://mail.nongnu.org/mailman/listinfo/feuerkraft-cvs">list
+          information page</a>.<br /><br />
+      </dd>
+
+    </dl>
+  </section>
+
+  <section title="Instant Messaging">
+    <dl>
+      <dt>Ingo Ruhnke (nick: grumbel) [Maintainer/Programmer/Graphic]</dt>
+      <dd>Jabber: grumbel@jabber.org<br />
+        ICQ UIN: 59461927</dd>
+    </dl>
+  </section>
+
+
+  <section title="IRC">
+    <p>There is no special channel for Feuerkraft, but you can find me
+    quite often on IRC at #gametome:</p>
+    <p>
+    Server: <a href="http://www.freenode.net">irc.freenode.net</a><br />
+    Channel: #gametome<br />
+    Nick: grumbel<br />
+    </p>
+  </section>
+</page>

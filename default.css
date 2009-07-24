@@ -1,0 +1,178 @@
+BODY { 
+	margin: 0px;
+	color: black;
+	background: rgb(200, 200, 173);
+	background: url("images/background.jpg");
+/*	text-align: justify; */
+}
+
+img
+{
+        border-style: none;
+}
+
+
+DIV.menu {
+	font-size: 0.8em;
+	font-family: sans-serif;
+	text-align: center;
+	background:	#a4a68e;
+	border:	        solid thin;
+	padding:	0.2em;
+	text:           width;
+	margin: 0px 0px 0px 0px;
+}
+
+div.menu a
+{
+	text-decoration: none;
+}
+
+
+h1,h2,h3,h4
+{
+	font-family: Sans-Serif;
+        margin-top: 0px;
+}
+
+a:hover {
+        color: white;
+}
+
+a:visited {
+        color: #00007f;
+}
+
+a {
+        color: #0000e5;
+}
+
+a.menuitem:hover
+{
+        color: black;
+        background-color: #c6c7b8;
+}
+
+a.menuitem:visited
+{
+        color: black;
+}
+
+a.menuitem
+{
+	text-decoration: none;
+	font-size: 18px;
+	font-family: Sans-Serif;
+	text-align: center;
+
+        border-color: black;
+        border-style: solid;
+        border-width: thin;
+        background-color: #797b69;
+/*	background-image: url(images/menubackground.png);*/
+        background-repeat: repeat-y;
+        color: black;        
+        padding: 2px 0px 2px 0px;
+        display: block;
+        margin: 10px 15px 10px 15px;
+}
+
+h1
+{
+        background: #797b69;
+        color: white;
+        border-style: solid;
+        border-color: black;
+	padding-left: 1em;
+        margin-top: 0px;
+        margin-bottom: .5em;
+}
+
+div.menu
+{
+        width: 190px;
+        margin-top: 10px;
+}
+
+
+H1,H2,H3,H4,H5,H6 {
+	font-family: "helvetica", sans-serif;
+}
+
+DIV.answer { color: darkblue }
+
+DIV.question {
+	color: darkgreen;
+}
+
+DL.news {
+		font-sive:      0.5em;
+}
+
+TD.news {
+	color:		black;
+	background:	lightgrey;
+	font-sive:      0.5em;
+}
+
+TH.news {
+	font-family:	sans-serif;
+	text-align:	center;
+	color:		white;
+	background:	darkgrey;
+	font-sive:      0.5em;
+}
+
+DIV.shell {
+	border:		solid thin;
+	font-size:	1.0em;
+	font-family:	monospace;
+	padding:	0.3em;
+	background:	rgb(220,220,220); 
+}
+
+UL.sitebar {
+	font-family: "helvetica", sans-serif;
+	font-size:	1.2em;
+}
+
+TT.command {
+	color: green;
+}
+
+TT.key {
+	color: blue;
+}
+
+TT.file {
+	color: red;
+}
+
+SMALL.grey {
+	color:          rgb(150,150,150);
+}
+
+div.mainbody
+{
+        background-color: #aaaa9f;
+        color: black;
+        border-color: black;
+        border-style: solid;
+        padding: 1em;
+}
+
+
+img.screenshot {
+        border-style: solid;
+        border-width: medium;
+}
+
+a img.screenshot {
+        border-color: red;
+}
+
+a:visited img.screenshot {
+        border-color: gray;
+}
+
+/* EOF */

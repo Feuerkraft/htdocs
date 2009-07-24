@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<page title="Welcome">
+  <section title="What is Feuerkraft?">
+    <p>
+      Feuerkraft is (or better: 'will be') a 2d top-down tank battle
+      game. You will be able to control many different kinds of
+      vehicles, change them or simply walk around with your own feet.
+      The game will provide a story driven single player mode with
+      some simple adventure like elemets (rescue somebody, talk to
+      people, collect a key, steal a car, etc.) and in addition it
+      will also provide a multiplayer mode which will be something
+      similar to the game 'Firepower' or 'Return Fire', which means
+      basically defend your base against the enemy. Since I consider
+      single player much more important than multiplayer, single
+      player will come first and multiplayer has to wait. There are
+      also plans for providing cooperative multiplayer missions.
+    </p>
+  </section> 
+
+<div align="right">
+<!-- Begin Nedstat Basic code -->
+<!-- Title: Feuerkraft -->
+<!-- URL: http://www.nongnu.org/feuerkraft/ -->
+<script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript">
+<!--
+  nedstatbasic("ACLiNQJjpeD4oNgDB6EH7UvsQcwQ", 0);
+// -->
+</script>
+<noscript>
+<a target="_blank" href="http://v1.nedstatbasic.net/stats?ACLiNQJjpeD4oNgDB6EH7UvsQcwQ"><img
+src="http://m1.nedstatbasic.net/n?id=ACLiNQJjpeD4oNgDB6EH7UvsQcwQ"
+border="0"  width="18" height="18" /></a>
+</noscript>
+<!-- End Nedstat Basic code -->
+</div>
+
+</page>

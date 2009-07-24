@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<page title="Screenshots of Version 0.2">
+  <screenshot-menu/>
+  
+  <screenshots>
+    <item file="screenshot-13" />
+    <item file="screenshot-12" />
+  </screenshots>
+
+  <p>
+    <a href="http://pingus.seul.org/~grumbel/tmp/feuerkraft-400x300-xvid.avi">Gameplay Video (Resolution: 400x300, Codec: Xvid, Size: 7.5MB)</a>
+  </p>
+</page>
