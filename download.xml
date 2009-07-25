@@ -3,23 +3,23 @@
   <section title="Static Binaries">
     <subsection title="GNU/Linux (i386)">
 
-    <ul>
-      <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.1.0-3-binary-linux-i386.tar.bz2" /> [2.6MB] Sat Apr 19 16:25:45 2003</li>
-      <!-- <li><dlink href="http://savannah.nongnu.org/download/feuerkraftfeuerkraft-0.1.0-binary-i386.tar.gz" /> [2.6MB] Fri Mar 29 14:09:42 2002</li> -->
-</ul>
-</subsection>
+      <ul>
+        <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.1.0-3-binary-linux-i386.tar.bz2" /> [2.6MB] Sat Apr 19 16:25:45 2003</li>
+        <!-- <li><dlink href="http://savannah.nongnu.org/download/feuerkraftfeuerkraft-0.1.0-binary-i386.tar.gz" /> [2.6MB] Fri Mar 29 14:09:42 2002</li> -->
+      </ul>
+    </subsection>
 
     <subsection title="Windows">
-<ul>
-      <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.1.0-binary-win32.zip" /> [2.3MB] Mon Apr  1 00:37:15 2002</li>
-    </ul>
-</subsection>
-<hr />
+      <ul>
+        <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/feuerkraft-0.1.0-binary-win32.zip" /> [2.3MB] Mon Apr  1 00:37:15 2002</li>
+      </ul>
+    </subsection>
+    <hr />
 
     <section title="Source Tarballs">
       <p>Requires <a href="http://www.clanlib.org">ClanLib 0.6.x</a>,
         <a
-        href="http://dark.x.dtu.dk/~sphair/SphriteLib/">SphriteLib</a>,
+           href="http://dark.x.dtu.dk/~sphair/SphriteLib/">SphriteLib</a>,
         <a href="http://www.gnu.org/software/guile/">Guile</a> and
         OpenGL.</p>
       <ul>
@@ -30,7 +30,7 @@
         <li><dlink href="http://savannah.nongnu.org/download/feuerkraft/firepower-0.0.0.tar.gz" /> [188kb]</li>
       </ul>
     </section>
-<hr />
+    <hr />
 
     <section title="Source for images and other data">
       <p>
@@ -48,11 +48,9 @@
       </ul>
 
     </section>
-<hr />
-<section title="Subversion">
-<pre>svn co svn://clanlib.org/Games/Feuerkraft/trunk/</pre>
-</section>
-
-    
+    <hr />
+    <section title="Subversion">
+      <pre>svn checkout svn://svn.berlios.de/feuerkraft/trunk</pre>
+    </section>   
   </section>
 </page>

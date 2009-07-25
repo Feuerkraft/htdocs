@@ -32,6 +32,9 @@ build/index.html : index.xml
 build/default.css : default.css
 	cp -v $< $@
 
+upload:
+	rsync -rcvLP -C build/ grumbel@shell.berlios.de:/home/groups/feuerkraft/htdocs
+
 # commit: all
 # 	cvs commit -m "automatic webpage update"
 

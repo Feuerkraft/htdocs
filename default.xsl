@@ -53,7 +53,7 @@
           <colgroup width="180" />
           <tr>
             <td valign="top" align="center">
-              <a href="http://fs.fsf.org/feuerkraft/"><img src="images/logo_feuerkraft.png" alt="Feuerkraft" border="0" /></a>
+              <a href="http://feuerkraft.berlios.de/"><img src="images/logo_feuerkraft.png" alt="Feuerkraft" border="0" /></a>
 
               <div><a class="menuitem" href="news.html">News</a></div>
               <div><a class="menuitem" href="welcome.html">Welcome</a></div>
@@ -63,7 +63,7 @@
               <div><a class="menuitem" href="download.html">Download</a></div>
               <div><a class="menuitem" href="contact.html">Contact</a></div>
               <br />
-              <div><a class="menuitem" href="http://savannah.nongnu.org/projects/feuerkraft/">Savanna Project Page</a></div>
+              <!-- <div><a class="menuitem" href="http://savannah.nongnu.org/projects/feuerkraft/">Savanna Project Page</a></div> -->
               <!--
               <br />
               <p>
