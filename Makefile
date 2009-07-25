@@ -1,20 +1,21 @@
 HTMLOUT = \
- welcome.html  \
- news.html  \
- download.html \
- screenshots.html \
- screenshots-0.1.html \
- screenshots-0.0.html \
- contact.html \
- artworks.html \
- development.html
+ build/welcome.html  \
+ build/news.html  \
+ build/download.html \
+ build/screenshots.html \
+ build/screenshots-0.1.html \
+ build/screenshots-0.0.html \
+ build/contact.html \
+ build/artworks.html \
+ build/development.html \
+ build/index.html
 
-all : $(HTMLOUT)
+all : $(HTMLOUT) build/default.css
 
 clean :
 	rm -vf $(HTMLOUT)
 
-$(patsubst %,%,$(HTMLOUT)): %.html: %.xml default.xsl
+$(patsubst %,%,$(HTMLOUT)): build/%.html: %.xml default.xsl
 	FILENAME=$<; \
 	LASTCHANGE=`date -I`; \
 	echo $${FILENAME%%.xml}; \
@@ -25,7 +26,10 @@ $(patsubst %,%,$(HTMLOUT)): %.html: %.xml default.xsl
           -out $@ \
           -xsl default.xsl
 
-index.html : index.xml
+build/index.html : index.xml
+	cp -v $< $@
+
+build/default.css : default.css
 	cp -v $< $@
 
 # commit: all
